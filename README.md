@@ -28,11 +28,10 @@ This repository contains a PyTorch implementation of the Transformer architectur
 
 ## Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/your_username/transformer-architecture.git
 cd transformer-architecture
 pip install -r requirements.txt
-\`\`\`
 
 
 
