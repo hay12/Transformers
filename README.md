@@ -1,7 +1,5 @@
 # Transformer Architecture: Attention Is All You Need
 
-![Transformer Architecture Diagram](your_image_link_here)
-
 ## Introduction
 
 This repository contains a PyTorch implementation of the Transformer architecture, as proposed in the paper "Attention Is All You Need" by Vaswani et al. The original paper can be accessed [here](https://arxiv.org/pdf/1706.03762.pdf).
@@ -32,7 +30,7 @@ This repository contains a PyTorch implementation of the Transformer architectur
 git clone https://github.com/your_username/transformer-architecture.git
 cd transformer-architecture
 pip install -r requirements.txt
-
+```
 
 
 
