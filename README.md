@@ -9,8 +9,8 @@
   - The Hebrew Version article can be found [here](https://docs.google.com/document/d/1ySJddUs4bFewUiJ2J4tT_0I_FxP59vA8eAXEJrHV2eo/edit?usp=sharing)
   - The English Version article can be found [here](https://docs.google.com/document/d/1aggiNVzVek-evQ1HiVyY8OTLg0H3NX4oX7WBVbCNumo/edit?usp=sharing)
 - We also wrote a full paper analysis both in Hebrew and English that can be found here:
-  - [English Version](https://docs.google.com/document/d/1xBkt3H7ffNtcEh__Cnw9Mw3dVgjAN8je0kOy_m5WXyA/edit?usp=sharing)
-  - [Hebrew Version](https://docs.google.com/document/d/19gLgIY17IOnaATim8inncxGW4LV_4y9AeVdMfY1dPGk/edit?usp=sharing)
+  - [English Version](https://docs.google.com/document/d/19gLgIY17IOnaATim8inncxGW4LV_4y9AeVdMfY1dPGk/edit?usp=sharing)
+  - [Hebrew Version](https://docs.google.com/document/d/1xBkt3H7ffNtcEh__Cnw9Mw3dVgjAN8je0kOy_m5WXyA/edit?usp=sharing)
 
 ## Table of Contents
 
